@@ -6,3 +6,8 @@
        url('/fonts/IRANSansWeb.woff') format('woff'),
        url('/fonts/IRANSans.ttf') format('truetype');
 }
+.mainmsg
+{
+	font-family: 'iransans';
+	color: red;
+}
