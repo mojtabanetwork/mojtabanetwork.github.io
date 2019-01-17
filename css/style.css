@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {
+  font-family: 'iransans';
+  src: url('IRANSansWeb.woff2') format('woff2'),
+       url('IRANSansWeb.woff') format('woff'),
+       url('IRANSans.ttf') format('truetype');
+}
