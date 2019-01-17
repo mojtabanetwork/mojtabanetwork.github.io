@@ -2,7 +2,7 @@
 /* CSS Document */
 @font-face {
   font-family: 'iransans';
-  src: url('IRANSansWeb.woff2') format('woff2'),
-       url('IRANSansWeb.woff') format('woff'),
-       url('IRANSans.ttf') format('truetype');
+  src: url('/fonts/IRANSansWeb.woff2') format('woff2'),
+       url('/fonts/IRANSansWeb.woff') format('woff'),
+       url('/fonts/IRANSans.ttf') format('truetype');
 }
