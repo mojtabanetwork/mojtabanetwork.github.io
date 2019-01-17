@@ -40,8 +40,11 @@
 	font-family: 'iransansbold';
 	color:darkolivegreen;
 	font-size: 22px;
+	border-right: 6px solid red;
+  background-color: lightgrey;
 }
 .header
 {
+	
 	margin-top: 20px;
 }
