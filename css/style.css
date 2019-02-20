@@ -42,8 +42,16 @@
 	font-size: 22px;
 	margin-top: 20px;
 }
+#txtcontact
+{
+	
+}
 .header
 {
   
 	
+}.txtcontact 
+{
+	color:darkgrey;
+	font-size: 12px;
 }
