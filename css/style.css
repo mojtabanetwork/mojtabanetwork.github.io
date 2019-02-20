@@ -38,14 +38,12 @@
 #mainmsg
 {
 	font-family: 'iransansbold';
-	color:darkolivegreen;
+	color:lightgray;
 	font-size: 22px;
 	margin-top: 20px;
 }
 .header
 {
-	border-right: 6px solid red;
-	border-left: 6px solid red;
-  background-color: lightgrey;
+  
 	
 }
