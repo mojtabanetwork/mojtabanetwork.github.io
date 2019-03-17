@@ -46,15 +46,6 @@
 {
 	
 }
-.header
-{
-  
-	
-}.txtcontact 
-{
-	color:darkgrey;
-	font-size: 12px;
-}
 
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
@@ -63,17 +54,17 @@ html{
   min-height: 100%;
   overflow: hidden;
 }
-body{
-  height: calc(100vh - 8em);
-  padding: 4em;
+.bodycls{
+  
+  padding: 15em;
   color: rgba(255,255,255,.75);
   font-family: 'Anonymous Pro', monospace;  
   background-color: rgb(25,25,25);  
 }
 .line-1{
-    position: relative;
-    top: 50%;  
-    width: 24em;
+    
+    margin-top:  top: 10px;  
+    width: 28em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 180%;
@@ -107,6 +98,7 @@ font-family: 'Anonymous Pro', monospace;
   text-align: center;
   text-decoration: none;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 4px 20px;
   cursor: pointer;
+	
 }
