@@ -56,16 +56,15 @@ html{
 }
 .bodycls{
   
-  padding: 15em;
+  padding: 8em;
   color: rgba(255,255,255,.75);
   font-family: 'Anonymous Pro', monospace;  
   background-color: rgb(25,25,25);  
 }
 .line-1{
     
-    margin-top:  top: 10px;  
+    margin: 0 auto; 
     width: 28em;
-    margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 180%;
     text-align: center;
@@ -106,4 +105,14 @@ font-family: 'Anonymous Pro', monospace;
 	text-decoration: none;
 	color:aliceblue;
 	background-color:#525252;
+}
+img
+{
+	margin-bottom: 50px;
+}
+.footer
+{
+	margin-top: 40px;
+	color: #646262;
+	font-size: 14px;
 }
